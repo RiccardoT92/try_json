@@ -1,13 +1,5 @@
-[
- [
-  "aggr_icons",
-  "aggr_state",
-  "aggr_treestate",
-  "aggr_hosts"
- ],
- [
-  "",
-  "WARN",
+{
+ "ref_country_codes" : [
   {
    "title": "prova",
    "in_downtime": false,
@@ -40,7 +32,4 @@
      "output": "RAM: 89.23% - 14.0 GiB of 15.7 GiB (warn\/crit at 80.00%\/90.00% used)(!), Commit charge: 75.70% - 18.4 GiB of 24.2 GiB"
     }
    ]
-  },
-  "msi"
- ]
-]
+  }
