@@ -1,5 +1,13 @@
-{
- "ref_country_codes" : [
+[
+ [
+  "aggr_icons",
+  "aggr_state",
+  "aggr_treestate",
+  "aggr_hosts"
+ ],
+ [
+  "",
+  "WARN",
   {
    "title": "prova",
    "in_downtime": false,
@@ -18,7 +26,7 @@
      "hostname": "msi",
      "assumed": false,
      "state": 0,
-     "output": "Total CPU: 4.47%"
+     "output": "Total CPU: 3.41%"
     },
     {
      "title": "Memory",
@@ -29,7 +37,10 @@
      "hostname": "msi",
      "assumed": false,
      "state": 1,
-     "output": "RAM: 89.23% - 14.0 GiB of 15.7 GiB (warn\/crit at 80.00%\/90.00% used)(!), Commit charge: 75.70% - 18.4 GiB of 24.2 GiB"
+     "output": "RAM: 85.24% - 13.4 GiB of 15.7 GiB (warn\/crit at 80.00%\/90.00% used)(!), Commit charge: 78.43% - 19.0 GiB of 24.2 GiB"
     }
    ]
-  }
+  },
+  "msi"
+ ]
+]
